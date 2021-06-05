@@ -1,0 +1,68 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  border-radius: 3px;
+  background-color: rgb(30, 226, 226);
+  height: 3.4rem;
+  width: 100%;
+}
+header h1 {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(25, 0, 134);
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+footer p {
+  color: #ccc;
+}
+
+.note {
+  border-radius: 13px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  height: 285px;
+  float: left;
+  margin: 16px;
+}
+.note h1 {
+  background-color: rgba(255, 155, 169, 0.76);
+  border-radius: 7px;
+  color: rgb(73, 72, 72);
+  font-size: 30px;
+}
+
+.note p {
+  font-weight: 550;
+  color: rgb(88, 61, 61);
+}
+
+.bootcamp1 {
+  border-radius: 13px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  height: 285px;
+  width: 240px;
+  float: left;
+  margin: 16px;
+}
+.bootcamp1 h1 {
+  background-color: rgba(255, 155, 169, 0.76);
+  border-radius: 7px;
+  color: rgb(73, 72, 72);
+  font-size: 30px;
+}
+.bootcamp1 p {
+  font-weight: 550;
+  color: rgb(88, 61, 61);
+}
